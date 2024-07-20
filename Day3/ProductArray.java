@@ -1,10 +1,9 @@
 package Day3;
 
-import java.util.ArrayList;
 
 public class ProductArray {
     public static void main(String[] args) {
-        int [] arr = {7, 8, 6, 4, 6, 7, 3, 10, 2,3, 8, 1, 10, 4, 7, 1, 7, 3, 7, 2, 9, 8, 10, 3, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1};
+        int [] arr = {2,3,4,2,3,4};
         product(arr);
         // System.out.println(product(arr));
     }
