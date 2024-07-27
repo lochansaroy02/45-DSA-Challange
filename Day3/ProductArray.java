@@ -8,7 +8,7 @@ public class ProductArray {
         // System.out.println(product(arr));
     }
 
-    public static void    product (int [] arr){
+    public static void  product (int [] arr){
 
 
         long [] ans = new long[arr.length];
